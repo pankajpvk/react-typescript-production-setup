@@ -1,1 +1,9 @@
 @import 'tailwindcss';
+
+.login-container {
+    background-color: aqua;
+}
+
+.register-container {
+    @apply bg-amber-500;
+}
